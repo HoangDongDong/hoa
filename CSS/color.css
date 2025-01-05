@@ -1,0 +1,96 @@
+#menu_text{
+    background-color: #eb94c5;
+    text-align: center;
+    padding: 80px;
+    margin: 0;
+}
+
+nav{
+    background-color: #333;
+    overflow: hidden;
+}
+.Anhdaidien1{
+    flex: 50%;
+}
+
+.Anhdaidien2{
+    flex: 50%;
+}
+
+nav a {
+    color: white;
+    padding:15px 18px;
+    /* display: block; */
+    text-align: center;
+    text-decoration: none;
+    float: left;
+}
+
+nav a.text_left{
+    float: left;
+}
+nav a.text_right{
+    float: left;
+}
+
+nav a:hover{
+    background-color: #790a0d;
+    color: #200fbbbb;
+}
+#left_side{
+    flex: 50%;
+    background-color: #98cb3b;
+    padding:  10px 20px;
+}
+#right_side{
+    flex: 50%;
+    background-color: #eab147;
+    padding:  10px 20px;
+}
+#cha{
+    display: flex;
+    flex-wrap: nowrap;
+}
+#infor1{
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+}
+.item{
+    width: 33%;
+    float:left;
+    text-align: center;
+}
+.course_img
+{
+    width: 90%;
+}
+
+@media (max-width: 800px){
+    #left_side{
+        float: left;
+    }
+    #right_side{
+        float: left;
+    }
+    #cha{
+        flex-wrap: wrap;
+    }
+    .item{
+        width: 50%;
+    }
+
+}
+
+@media (max-width: 400px){
+    #left_side{
+        float: left;
+    }
+    #right_side{
+        float: left;
+    }
+    #cha{
+        flex-wrap: wrap;
+    }
+}
