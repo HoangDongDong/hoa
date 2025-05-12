@@ -26,3 +26,5 @@ cd pacman-game
 Thêm nhiều bản đồ (level)
 Thêm âm thanh và hiệu ứng
 Menu chính, chọn cấp độ khó
+Mô Tả game
+![image](https://github.com/user-attachments/assets/5ab5f57f-1c71-4f6e-9738-cfa01c064955)
