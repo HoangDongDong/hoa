@@ -27,5 +27,5 @@ Thêm nhiều bản đồ (level)
 Thêm âm thanh và hiệu ứng
 Menu chính, chọn cấp độ khó
 Mô Tả game
-![image](https://github.com/user-attachments/assets/2b681d0c-430c-4cfa-b483-b30a427d23a1)
+![image](https://github.com/user-attachments/assets/baae686c-a2d3-422d-8276-a5fb0bb1576e)
 
